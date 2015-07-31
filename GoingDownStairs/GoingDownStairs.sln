@@ -5,6 +5,8 @@ Project("{01750EEB-FDB2-1E74-C050-7BD9034F8DEC}") = "GoingDownStairs", "Assembly
 EndProject
 Project("{01750EEB-FDB2-1E74-C050-7BD9034F8DEC}") = "GoingDownStairs", "Assembly-CSharp.csproj", "{B2B2DB19-067D-F482-E61B-4868AD2705F2}"
 EndProject
+Project("{01750EEB-FDB2-1E74-C050-7BD9034F8DEC}") = "GoingDownStairs", "Assembly-CSharp-Editor.csproj", "{713649B1-82F2-F2B6-980C-01BBCD881429}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{B2B2DB19-067D-F482-E61B-4868AD2705F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2B2DB19-067D-F482-E61B-4868AD2705F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2B2DB19-067D-F482-E61B-4868AD2705F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713649B1-82F2-F2B6-980C-01BBCD881429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713649B1-82F2-F2B6-980C-01BBCD881429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713649B1-82F2-F2B6-980C-01BBCD881429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713649B1-82F2-F2B6-980C-01BBCD881429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																											GlobalSection(MonoDevelopProperties) = preSolution
+																																					GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

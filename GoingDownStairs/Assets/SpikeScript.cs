@@ -18,6 +18,7 @@ public class SpikeScript : MonoBehaviour {
 		if(col.gameObject.tag == "Player")
 		{
 			Destroy(col.gameObject);
+			Application.LoadLevel("title");
 		}
 	}
 }
